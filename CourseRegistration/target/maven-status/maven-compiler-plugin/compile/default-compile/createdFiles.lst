@@ -1,0 +1,6 @@
+model\Course.class
+com\mycompany\lab_exercise\resources\JakartaEE10Resource.class
+model\Student.class
+Servlet\StudentController.class
+com\mycompany\lab_exercise\JakartaRestConfiguration.class
+model\User.class
